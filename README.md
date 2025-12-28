@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋🏻 Prazer! 
+
+Sou João Francisco, estudante de Engenharia de Software da PUC Minas (Coração Eucarístico).
+
 
 <!--
 **joaofr-tech/joaofr-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
