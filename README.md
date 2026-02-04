@@ -5,8 +5,6 @@
 - ⚡ Fora do código, curto estudar **investimentos** e **neurociência**
 ---
 ## Tecnologias & Ferramentas
-
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -19,9 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
----
 ## Contato
-
 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-francisco-ramos/
 Email: jf756061@gmail.com
 <!--
