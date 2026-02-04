@@ -1,13 +1,15 @@
-# 👋🏻 Prazer! João Francisco
+# 👋 Opa! Eu sou o João Francisco
 
-- 📚 Estudante de Engenharia de Software da PUC Minas (Coração Eucarístico)
-- 🧠 
-- ⚡ Fora da tecnologia gosto de estudar sobre investimentos e neurociencia
+- 🎓 Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)**  
+- 💻 Sempre desenvolvendo **projetos pessoais** para aprender na prática  
+- ⚡ Fora do código, curto estudar **investimentos** e **neurociência**
+---
 <!--
 **joaofr-tech/joaofr-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🧠 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
