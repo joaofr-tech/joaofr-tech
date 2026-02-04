@@ -1,8 +1,8 @@
-## 👋🏻 Prazer! 
+# 👋🏻 Prazer! João Francisco
 
-Sou João Francisco, estudante de Engenharia de Software da PUC Minas (Coração Eucarístico).
-
-
+- 📚 Estudante de Engenharia de Software da PUC Minas (Coração Eucarístico)
+- 🧠 
+- ⚡ Fora da tecnologia gosto de estudar sobre investimentos e neurociencia
 <!--
 **joaofr-tech/joaofr-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
