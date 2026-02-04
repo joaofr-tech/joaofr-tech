@@ -20,5 +20,5 @@
 ---
 ## 📫 Contato
 
-- Email: jf756061@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-francisco-ramos/
+- 📧 Email: **jf756061@gmail.com**
+- 💼 LinkedIn: [João Francisco Ramos](https://www.linkedin.com/in/jo%C3%A3o-francisco-ramos/)
