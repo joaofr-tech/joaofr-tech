@@ -7,7 +7,7 @@
 ## 🔧 Tecnologias & Ferramentas
 
 <p align="left">
-  ![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,wasm)
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,wasm" />
 </p>
 
 ## 📫 Contato
