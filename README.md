@@ -7,7 +7,7 @@
 ## 🔧 Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,wasm" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,idea,vscode" />
 </p>
 
 ## 📫 Contato
