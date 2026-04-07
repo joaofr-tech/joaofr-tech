@@ -1,4 +1,4 @@
-# 👋 Opa! Eu sou o João Francisco
+#  𝓙oão Francisco
 
 - 🎓 Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)**  
 - 💻 Sempre desenvolvendo **projetos pessoais** para aprender na prática  
