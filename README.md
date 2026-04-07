@@ -1,4 +1,4 @@
-#  𝓙oão Francisco
+#  𝓙oão 𝓕rancisco
 
 - 🎓 Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)**  
 - 💻 Sempre desenvolvendo **projetos pessoais** para aprender na prática  
