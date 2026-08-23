@@ -3,7 +3,7 @@
 __production projects:__
 
 - habit tracker @ [kpi](https://kpi-habits.jf756061.workers.dev/)  
-- World Cup sticker album @ [album-copa](pwa-album-copa-sdd.jf756061.workers.dev)
+- World Cup sticker album @ [album-copa](https://pwa-album-copa-sdd.jf756061.workers.dev/)
 - portfolio @ [porfolio](https://joaofr-tech.github.io/portfolio/)
 
 __contact:__
