@@ -1,16 +1,12 @@
-#  𝓙oão 𝓕rancisco
+### Hello!
 
-- 🎓 Estudante de **Engenharia de Software** na **PUC Minas (Coração Eucarístico)**  
-- 💻 Sempre desenvolvendo **projetos pessoais** para aprender na prática  
-- ⚡ Fora do código, curto estudar **investimentos** e **neurociência**
----
-## 🔧 Tecnologias & Ferramentas
+__production projects:__
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,js,html,css,git,github,idea,vscode,postman" />
-</p>
+- habit tracker @ [kpi](https://kpi-habits.jf756061.workers.dev/)  
+- World Cup sticker album @ [album-copa](pwa-album-copa-sdd.jf756061.workers.dev)
+- portfolio @ [porfolio](https://joaofr-tech.github.io/portfolio/)
 
-## 📫 Contato
+__contact:__
 
-- 📧 Email: **jf756061@gmail.com**
-- 💼 LinkedIn: [João Francisco Ramos](https://www.linkedin.com/in/jo%C3%A3o-francisco-ramos/)
+Email: **jf756061@gmail.com**  
+LinkedIn: [João Francisco Ramos](https://www.linkedin.com/in/jo%C3%A3o-francisco-ramos/)
