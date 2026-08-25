@@ -3,7 +3,8 @@
 __production projects:__
 
 - habit tracker @ [kpi](https://kpi-habits.jf756061.workers.dev/)  
-- World Cup sticker album @ [album-copa](https://pwa-album-copa-sdd.jf756061.workers.dev/)
+- world cup sticker album @ [album-copa](https://pwa-album-copa-sdd.jf756061.workers.dev/)
+- storage english words @ [deckly](https://deckly-nu.vercel.app/)
 - portfolio @ [porfolio](https://joaofr-tech.github.io/portfolio/)
 
 __contact:__
