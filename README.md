@@ -1,13 +1,15 @@
-### Hello!
+# 👋 Olá! Eu sou João Francisco
 
-__production projects:__
+#### 👩‍💻 Sobre Mim 
 
-- habit tracker @ [kpi](https://kpi-habits.jf756061.workers.dev/)  
-- world cup sticker album @ [album-copa](https://pwa-album-copa-sdd.jf756061.workers.dev/)
-- storage english words @ [deckly](https://deckly-nu.vercel.app/)
-- portfolio @ [porfolio](https://joaofr-tech.github.io/portfolio/)
+Estudante de Engenharia de Software na PUC Minas. Construo aplicações completas com Spring Boot e React, aliando uma base sólida de backend ao interesse contínuo por engenharia de dados e aplicações práticas com IA.
 
-__contact:__
+#### 🌐 Projetos em Produção: 
 
-Email: **jf756061@gmail.com**  
-LinkedIn: [João Francisco Ramos](https://www.linkedin.com/in/jo%C3%A3o-francisco-ramos/)
+@ [habitus](https://kpi-habits.jf756061.workers.dev/)  
+@ [album26](https://pwa-album-copa-sdd.jf756061.workers.dev/)  
+@ [porfolio](https://joaofr-tech.github.io/portfolio/)
+
+#### 🏗️ Projetos Casos de Estudo:
+
+- [ETL-medalion-architecture](https://github.com/joaofr-tech/ETL-medalion-architecture)
