@@ -12,4 +12,5 @@ Estudante de Engenharia de Software na PUC Minas. Construo aplicações completa
 
 #### 🏗️ Projetos Casos de Estudo:
 
-- [ETL-medalion-architecture](https://github.com/joaofr-tech/ETL-medalion-architecture)
+[ETL-medalion-architecture](https://github.com/joaofr-tech/ETL-medalion-architecture)
+[Cloud-data-pipeline-azure](https://github.com/joaofr-tech/cloud-data-pipeline-azure)
