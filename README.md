@@ -9,6 +9,7 @@ Caso esteja buscando meus projetos, selecionei aqueles dos quais mais me orgulho
 👉 [api-cnab-file-reader](https://github.com/joaofr-tech/api-cnab-file-reader)  
 👉 [pagamento-simplificado](https://github.com/joaofr-tech/pagamento-simplificado)
 #### ML/AI
+👉 [agente-autônomo-busca-vagas](https://github.com/joaofr-tech/estagio-bot-ai)  
 👉 [agente-local](https://github.com/joaofr-tech/local-ai-agent)
 #### Front-End  
 👉 [album26](https://pwa-album-copa-sdd.jf756061.workers.dev/)  
